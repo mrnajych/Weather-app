@@ -1,4 +1,4 @@
-<h1 align='center'> <font color='magenta'><font size=7><img src="https://cdn-icons-png.flaticon.com/512/1163/1163657.png" height="40" width="40"></font> </font></h1>
+<h1 align='center'> <font color='magenta'><font size=7><img src="https://cdn-icons-png.flaticon.com/512/1163/1163657.png" height="60" width="60"></font> </font></h1>
 <h1 align='center'><font color='purple'><font size=6>Weather APP</font> </font></h1>
 
 <kbd>![Screenshot 2024-05-24 205644](https://github.com/mrnajych/Weather-app/blob/main/assets/Screenshot%202024-10-08%20114152.png?raw=true)</kbd>
@@ -18,5 +18,5 @@ The Weather App aims to make weather data more accessible, offering a platform t
 
 - Interactive Visuals and Animations: To enhance the user experience, the app includes weather icons, dynamic backgrounds, and animations that reflect current weather conditions, such as sun, rain, or clouds. This    visual representation makes it easier for users to understand the weather at a glance.
 
-###Technical Stack:
+### Technical Stack:
 Built using HTML, CSS, and JavaScript, with frameworks like React  for creating dynamic and interactive components. Tailwind CSS is used for rapid UI design and styling, ensuring a consistent look and feel.
